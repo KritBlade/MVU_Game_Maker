@@ -81,23 +81,29 @@ _All extensions are open source._
 1. Open **SillyTavern → User Settings**
 2. Set **Language = English**
 
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/90d14427-1d01-4585-a1c5-6bfa6289846f" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/90d14427-1d01-4585-a1c5-6bfa6289846f" />
 
-
+<br><br>
 3. Install required extensions:
    - 🔧 [Tavern Helper](https://github.com/N0VI028/JS-Slash-Runner)
    - 🧩 [ST-Prompt-Template](https://codeberg.org/zonde306/ST-Prompt-Template/)
    - ✨ [Megumin Suite v5+](https://github.com/Arif-salah/Megumin-Suite)  
      > Thanks Kazuma for helping troubleshoot MVU compatibility!
 
+<br><br>
 You install extension at SillyTavern at this location, just copy and paste the link above.
-<img width="800"   alt="image" src="https://github.com/user-attachments/assets/9a0d09d5-ab30-403d-9e9e-fc0d12c4d70f" />
+<img width="600"   alt="image" src="https://github.com/user-attachments/assets/9a0d09d5-ab30-403d-9e9e-fc0d12c4d70f" />
+
+<br><br>
+Make sure you set the Preset Context no smaller than the following<br>
+<img width="400" height="439" alt="image" src="https://github.com/user-attachments/assets/984b875e-5c0b-40cd-a301-ab194feba18a" />
+
 
 In case you have difficulty to install, you can still watch the [video](https://www.youtube.com/watch?v=Jh1ojfiqGXI) here on installing the first two extensions.
 
 4. Download:
    - 📦 [MVU Game Maker](https://github.com/KritBlade/MVU_Game_Maker/releases)
-
+<br><br>
 ---
 
 ## ▶️ How to use
@@ -137,6 +143,8 @@ Start your game with a **fully persistent, system-driven RPG experience** powere
 
 - MVU system & tools by Tavern Helper extension , ST-Prompt-Template and MVU ZOD creator   
 - Megumin Suite compatibility support from Kazuma  
+
+---
 
 ## 💡 FAQ
 - System should pick up team member when you **ask the NPC to join your party**.  The system should populate the stats into Familiar tab.  However, if you want to have a more defined profile for your teammate/heroine/partner, you might want to take a look the lorebook entry '[Demo Characters] Engni' , which is the correct way to define a character.  It would populate the Familiar profile a lot more consistent.
