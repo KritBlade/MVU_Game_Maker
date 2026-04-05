@@ -93,6 +93,8 @@ _All extensions are open source._
 You install extension at SillyTavern at this location, just copy and paste the link above.
 <img width="800"   alt="image" src="https://github.com/user-attachments/assets/9a0d09d5-ab30-403d-9e9e-fc0d12c4d70f" />
 
+In case you have difficulty to install, you can still watch the [video](https://www.youtube.com/watch?v=Jh1ojfiqGXI) here on installing the first two extensions.
+
 4. Download:
    - 📦 [MVU Game Maker](https://github.com/KritBlade/MVU_Game_Maker/releases)
 
