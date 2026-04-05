@@ -32,11 +32,32 @@ MVU Game Maker is a converter that transforms any **RPG / Fantasy Adventure** Si
   - Formula-based (scales up to level 150)
   - No random damage generation by AI  
 - 🛡️ **Real equipment system**
-  - Weapon & armor weight affects damage calculation  
+  - Weapon & armor weight affects damage calculation
+  - Various grade of weapon/armor/accessory support (common, fine, rare, epic, legendary)
 - 🎮 Character creation panel at game start
-- 🧠 Points allocation panel when level up.  
+- 🧠 Points allocation panel when level up.
+- 🧠 Full picture support on Familiar, yes you can use your own picture for each familiar.
+- 🧠 A complete quest system in place that will record every AI generated quest and viewable in GUI
+- 🧠 Dynamic World event will be saved in variable so AI will remember ground breaking event that was happened.
 - 🧠 Advanced scripting directly inside lorebook  
 - 🎨 Fully customizable GUI via [MVU Zod Status Menu Builder](https://github.com/KritBlade/MVU_Zod_StatusMenuBuilder) 
+
+---
+
+## 🧑‍🏫 Simple explanation
+
+In simple terms:
+
+> It converts your RPG character into a system where your stats are **always remembered**. **Mutli character** stats tracking support!
+
+That means:
+- Your EXP, STR, HP, MP  
+- Your skills, equipment  
+- Your **100+ inventory items**  
+
+…will **always stay consistent for EVERY SINGLE member**, no matter how long your chat session is with a working RPG gaming and battle system.
+
+Because a working gaming and battle system in place, your character WILL die if you challenge monster way higher level than your party.  AI would NOT magically save you.
 
 ---
 
@@ -45,26 +66,11 @@ MVU Game Maker is a converter that transforms any **RPG / Fantasy Adventure** Si
 Works with:
 
 👉 **[MVU Zod Status Menu Builder](https://github.com/KritBlade/MVU_Zod_StatusMenuBuilder)**  
-Customize everything by click and drag (No coding required although we do support javascript for advance scripting):
+Customize everything in the stats menus by click and drag (No coding required although we do support javascript for advance scripting):
 - GUI layout  
 - CSS styling  
 - Logic & scripting  
 - Variable structure  
-
----
-
-## 🧑‍🏫 Simple explanation
-
-In simple terms:
-
-> It converts your RPG character into a system where your stats are **always remembered**.
-
-That means:
-- Your EXP, STR, HP, MP  
-- Your skills, equipment  
-- Your **100+ inventory items**  
-
-…will **always stay consistent**, no matter how long your chat session is.
 
 ---
 
@@ -75,11 +81,17 @@ _All extensions are open source._
 1. Open **SillyTavern → User Settings**
 2. Set **Language = English**
 
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/90d14427-1d01-4585-a1c5-6bfa6289846f" />
+
+
 3. Install required extensions:
    - 🔧 [Tavern Helper](https://github.com/N0VI028/JS-Slash-Runner)
    - 🧩 [ST-Prompt-Template](https://codeberg.org/zonde306/ST-Prompt-Template/)
    - ✨ [Megumin Suite v5+](https://github.com/Arif-salah/Megumin-Suite)  
      > Thanks Kazuma for helping troubleshoot MVU compatibility!
+
+You install extension at SillyTavern at this location, just copy and paste the link above.
+<img width="800"   alt="image" src="https://github.com/user-attachments/assets/9a0d09d5-ab30-403d-9e9e-fc0d12c4d70f" />
 
 4. Download:
    - 📦 [MVU Game Maker](https://github.com/KritBlade/MVU_Game_Maker/releases)
@@ -114,7 +126,7 @@ Start your game with a **fully persistent, system-driven RPG experience** powere
 
 ## 💡 Notes
 
-- Currently supports **RPG genre character cards only**
+- Currently supports **RPG genre character cards only**.  But it will support dating/love simulation in the future.
 - Designed for **advanced users who want full control over systems and UI**
 
 ---
