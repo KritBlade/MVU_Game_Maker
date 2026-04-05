@@ -32,7 +32,7 @@ MVU Game Maker is a converter that transforms any **RPG / Fantasy Adventure** Si
   - Formula-based (scales up to level 150)
   - No random damage generation by AI  
 - 🛡️ **Real equipment system**
-  - Weapon & armor weight affects damage calculation
+  - An equipment system where gear carries real weight in damage calculations
   - Various grade of weapon/armor/accessory support (common, fine, rare, epic, legendary)
 - 🎮 Character creation panel at game start
 - 🧠 Points allocation panel when level up.
