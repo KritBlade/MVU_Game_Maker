@@ -100,7 +100,13 @@ _All extensions are open source._
 
 <br><br>
 ✨You might want to set the Target word count 1000 to 1500 so that it will better to describe the story in Megumin preset<br>
-<img width="400" height="229" alt="image" src="https://github.com/user-attachments/assets/91aa8734-ef6e-40f6-a14b-5f7e6c453248" />
+<img width="600" height="229" alt="image" src="https://github.com/user-attachments/assets/91aa8734-ef6e-40f6-a14b-5f7e6c453248" />
+<br><br>
+
+✨Check the MVU Compatiblity icon in Megumin preset<br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0a955501-eb9c-4199-83af-37449c428480" />
+
+
 <Br><br>
 
 4. Download:
