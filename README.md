@@ -138,6 +138,7 @@ Start your game with a **fully persistent, system-driven RPG experience** powere
 
 - Currently supports **RPG genre character cards only**.  But it will support dating/love simulation in the future.
 - Designed for **advanced users who want full control over systems and UI**
+- In order to pull off such an complex system, **you need a pretty smart AI model**. My testing platform is on Gemini 3 flash.  I know Gemini 3 Pro, Claude Sonnet and Opus works.  GLM 5.0 should work as well.
 
 ---
 
