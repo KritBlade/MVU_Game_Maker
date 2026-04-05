@@ -91,7 +91,7 @@ _All extensions are open source._
      > Thanks Kazuma for helping troubleshoot MVU compatibility!
 
 <br><br>
-✨You install extension at SillyTavern at this location, just copy and paste the link above.
+✨You install extension at SillyTavern at this location, just copy and paste the link above.<br>
 <img width="600"   alt="image" src="https://github.com/user-attachments/assets/9a0d09d5-ab30-403d-9e9e-fc0d12c4d70f" />
 
 <br><br>
@@ -99,7 +99,7 @@ _All extensions are open source._
 <img width="400" height="439" alt="image" src="https://github.com/user-attachments/assets/984b875e-5c0b-40cd-a301-ab194feba18a" />
 
 <br><br>
-✨You might want to set the Target word count 1000 to 1500 so that it will better to describe the story in Megumin preset
+✨You might want to set the Target word count 1000 to 1500 so that it will better to describe the story in Megumin preset<br>
 <img width="400" height="229" alt="image" src="https://github.com/user-attachments/assets/91aa8734-ef6e-40f6-a14b-5f7e6c453248" />
 <Br><br>
 
