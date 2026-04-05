@@ -135,8 +135,8 @@ Start your game with a **fully persistent, system-driven RPG experience** powere
 
 ## ⭐ Credits
 
-- MVU system & tools by contributors  
-- Megumin Suite compatibility support  
+- MVU system & tools by Tavern Helper extension , ST-Prompt-Template and MVU ZOD creator   
+- Megumin Suite compatibility support from Kazuma  
 
 ## 💡 FAQ
 - System should pick up team member when you **ask the NPC to join your party**.  The system should populate the stats into Familiar tab.  However, if you want to have a more defined profile for your teammate/heroine/partner, you might want to take a look the lorebook entry '[Demo Characters] Engni' , which is the correct way to define a character.  It would populate the Familiar profile a lot more consistent.
