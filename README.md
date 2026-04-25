@@ -1,6 +1,6 @@
 # MVU Game Maker
 
-A companion system that works with the **MVU Zod Status Menu Builder**.
+A companion system that works with the **[MVU Zod Status Menu Builder](https://github.com/KritBlade/MVU_Zod_StatusMenuBuilder)**.
 
 MVU Game Maker is a converter that transforms SillyTavern character cards into **MVU-based character cards** with persistent stat tracking, real game mechanics, and customizable GUIs.
 
