@@ -183,6 +183,7 @@ _All extensions are open source._
    - 🧩 [ST-Prompt-Template](https://codeberg.org/zonde306/ST-Prompt-Template/)
    - ✨ [Megumin Suite v5+](https://github.com/Arif-salah/Megumin-Suite)  
      > Thanks Kazuma for helping troubleshoot MVU compatibility!
+   - ✨ [Izumi English Preset](https://discord.gg/C6HabNwzn7) - If you don't want to use Megumin Suite, you can use this simpler preset also support MVU
 
 <br><br>
 ✨You install extension at SillyTavern at this location, just copy and paste the link above.<br>
