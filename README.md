@@ -260,6 +260,7 @@ Start your game with a **fully persistent, system-driven RPG experience** powere
 - A character is promoted to **Partner** only when she meets all four criteria in `<encounter_guide>` (named character, recurring presence, personal interaction, romantic intent). Friends, mentors, coworkers without romantic signal stay as NPCs in `World_Calc.NPCs`.
 - **Repeated social check failures are not a dead end.** When the partner walks away due to repeated rejection, the system automatically resets ConflictActive to false, lowers Stress, and (if she was a Stranger) advances her to Acquaintance — so the next encounter is meaningfully easier.
 - **Boundaries evolve, they don't disappear.** The system supports two paths: explicit verbal renegotiation, OR de facto supersession when prior story events have already objectively resolved the named condition.
+- System should pick up and populate as partner when the **the NPC play a major role in lorebook **. The system will populate stats into the Partner tab. For a more defined profile, look at the lorebook entry `[Demo Characters] Mina` for the recommended way to define a character.
 
 ### Both Genres
 - You can mod the GUI of the stats menu using [MVU Zod Status Menu Builder](https://github.com/KritBlade/MVU_Zod_StatusMenuBuilder) to whatever color and presentation you want — no coding needed.
