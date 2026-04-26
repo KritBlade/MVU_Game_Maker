@@ -181,9 +181,10 @@ _All extensions are open source._
 3. Install required extensions:  (In case you have difficulty to install first two extensions, you can watch the [video](https://www.youtube.com/watch?v=Jh1ojfiqGXI) here)
    - 🔧 [Tavern Helper](https://github.com/N0VI028/JS-Slash-Runner)
    - 🧩 [ST-Prompt-Template](https://codeberg.org/zonde306/ST-Prompt-Template/)
-   - ✨ [Megumin Suite v5+](https://github.com/Arif-salah/Megumin-Suite)  
+   - ✨ [Megumin Suite v5+](https://github.com/Arif-salah/Megumin-Suite)  (pick v6 dreamteam lite and COT v6 lite if you are using v6)
      > Thanks Kazuma for helping troubleshoot MVU compatibility!
    - ✨ [Izumi English Preset](https://discord.gg/C6HabNwzn7) - If you don't want to use Megumin Suite, you can use this simpler preset also support MVU
+   - ✨ [Frankenstein v4.2 fatman preset](https://rentry.org/freaky-frankenstein-presets) works but without extensive testing.
 
 <br><br>
 ✨You install extension at SillyTavern at this location, just copy and paste the link above.<br>
@@ -217,7 +218,7 @@ _All extensions are open source._
 1. Extract the MVU Game Maker ZIP  
 2. Double-click `index.html`  
 3. Click **Load Character Card**
-4. Select your SillyTavern RPG character  
+4. Select your SillyTavern RPG character   **(DO THIS FIRST)**
 5. Click **JSON Export** (top-right corner)  
 6. Click **Download PNG Card**  
 7. Open SillyTavern → Import character card  
