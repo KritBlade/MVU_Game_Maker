@@ -219,6 +219,30 @@ _All extensions are open source._
 <br><br>
 ---
 
+## 🛠️ Preset Requirement
+
+You'll need a fairly capable AI model. The dating system is more sensitive to model quality than RPG — it needs a model that can follow complex conditional logic and resist the urge to soften failures.
+
+Tested working on:
+
+- Gemini 3 Flash
+
+- Gemini 3 Pro
+
+- Claude Sonnet / Opus
+
+- GLM 5.0/5.1 should work 95% of the time
+
+- Minimax 2.7 somehow works but thinking leaks to main story.
+
+- **Deepseek v4 flash does NOT work, Deepseek v4 pro is trial and error, it doesn't always update variables.**
+
+- Local model most likely do not work. I didn't have extensive testing on most Chinese AI model (GLM, Minimax, Deepseek)
+
+
+---
+<br><br>
+
 ## ▶️ How to use
 
 > Make sure all required extensions are installed first.
@@ -250,7 +274,6 @@ Start your game with a **fully persistent, system-driven RPG experience** powere
 
 - Supports **RPG / Fantasy Adventure** and **Slice of Life / Dating Simulation** character cards.
 - Designed for **advanced users who want full control over systems and UI**.
-- In order to pull off such a complex system, **you need a pretty smart AI model**. My testing platform is on Gemini 3 Flash. Gemini 3 Pro, Claude Sonnet, and Claude Opus all work well. GLM 5.0 should also work.
 - Slice of Life genre is more sensitive to model quality than RPG — the trait-driven personality system and D20 social check enforcement need a model that can resist the urge to "soften" failures.
 
 ---
