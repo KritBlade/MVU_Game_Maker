@@ -170,7 +170,7 @@ Customize everything in the stats menus by click and drag (No coding required al
 
 ## 🔗 Too Good To Be True?
 
-Having a console game like experience with GUI + Stat tracking on multi-heroine + all these rule base system in places right inside SillyTavern takes a lot of tokens. RPG genre takes about 75000 tokens/reply on 2000th+ replies while the Love genre is even more demanding, it takes 100000 tokens /reply on 1000th+ replies. Due to the complexity of running script and having AI to understand complex rule base logic inside SillyTavern, a frontier AI model is required.
+Having a console game like experience with GUI + Stat tracking on multi-heroine + all these rule base system in places right inside SillyTavern takes a lot of tokens. RPG genre takes about 75000 tokens/reply on 2000th+ replies while the Love genre is even more demanding. Due to the complexity of running script and having AI to understand complex rule base logic inside SillyTavern, a frontier AI model is required.
 
 This is not something for people who is on budget. And for best experience you would want to use Gemini 3 flash at the minimum for the full experience and working correctly. GLM 5.1 is a borderline minimum for something that works 95% of the time. However, for those who don't have pressure on budget, I would want to say that using Sonnet 4.5 or Opus 4.6 with 800 to 1000 words output is addictive on this MVU engine. My testbed uses Gemini 3 flash and Sonnet 4.5, and I do play on opus 4.6 on my own game from time to time.
 
