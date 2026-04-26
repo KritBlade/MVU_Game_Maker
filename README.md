@@ -237,21 +237,23 @@ _All extensions are open source._
 
 You'll need a fairly capable AI model. The dating system is more sensitive to model quality than RPG — it needs a model that can follow complex conditional logic and resist the urge to soften failures.
 
-Tested working on:
+Tested on:
 
-- Gemini 3 Flash
+- ✅ Gemini 3 Flash
 
-- Gemini 3 Pro
+- ✅ Gemini 3.1 Flash lite
 
-- Claude Sonnet / Opus
+- ✅ Gemini 3 Pro
 
-- GLM 5.0/5.1 should work 95% of the time
+- ✅ Claude Sonnet / Opus
 
-- Minimax 2.7 somehow works but thinking leaks to main story.
+- ✔ GLM 5.0/5.1 should work 95% of the time
 
-- **Deepseek v4 flash does NOT work, Deepseek v4 pro is trial and error, it doesn't always update variables.**
+- ❓ Minimax 2.7 somehow works but thinking leaks to main story.
 
-- Local model most likely do not work. I didn't have extensive testing on most Chinese AI model (GLM, Minimax, Deepseek)
+- ❌ **Deepseek v4 flash does NOT work, Deepseek v4 pro is trial and error, it doesn't always update variables.**
+
+- ❌ Local model most likely do not work. I didn't have extensive testing on most Chinese AI model (GLM, Minimax, Deepseek)
 
 
 ---
