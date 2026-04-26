@@ -224,15 +224,16 @@ _All extensions are open source._
 > Make sure all required extensions are installed first.
 
 1. Extract the MVU Game Maker ZIP  
-2. Double-click `index.html`  
-3. Click **Load Character Card**
-4. Select your SillyTavern RPG character   **(DO THIS FIRST)**
-5. Click **JSON Export** (top-right corner)  
-6. Click **Download PNG Card**  
-7. Open SillyTavern → Import character card  
-8. Click **Import → OK → OK**
+2. Double-click `index.html`
+3. Select RPG or Love Genre on upper left corner under template **(DO THIS FIRST)**
+4. Click **Load Character Card**
+5. Select your SillyTavern RPG character   
+6. Click **JSON Export** (top-right corner)  
+7. Click **Download PNG Card**  
+8. Open SillyTavern → Import character card  
+9. Click **Import → OK → OK**
 
-9. Click the **Megumin preset icon** (top-right):
+10. Click the **Megumin preset icon** (top-right):
    - Enable ✅ **MVU Compatibility**  
      → Found under **Format Blocks**  
    - Click **Save**
