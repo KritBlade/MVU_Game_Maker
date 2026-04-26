@@ -202,6 +202,11 @@ _All extensions are open source._
 
 ✨Check the MVU Compatiblity icon in Megumin preset<br>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/0a955501-eb9c-4199-83af-37449c428480" />
+<br><br>
+
+✨Under Extension > Regex  , make sure thinking hide is off and thinking box is on <br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/5f44d006-a3bd-44a3-ba35-dd647e1a94cd" />
+
 
 
 <Br><br>
@@ -210,6 +215,7 @@ _All extensions are open source._
 <img  width="600" alt="image" src="https://github.com/user-attachments/assets/244ab5bd-05e5-41b4-be86-9ccc5fef5126" />
 <br>
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/4a79c653-2739-4392-b4b0-7e6361b52113" />
+
 
 
 
