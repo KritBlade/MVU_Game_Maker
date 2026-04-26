@@ -282,7 +282,7 @@ Tested on:
 
 ## 🎉 You're ready!
 
-Start your game with a **fully persistent, system-driven RPG experience** powered by MVU Game Maker.
+Start your game with a **fully persistent, system-driven console like experience with GUI and rule base system right inside SillyTavern** powered by MVU Game Maker.
 
 ---
 
@@ -314,5 +314,9 @@ Start your game with a **fully persistent, system-driven RPG experience** powere
 
 ### Both Genres
 - You can mod the GUI of the stats menu using [MVU Zod Status Menu Builder](https://github.com/KritBlade/MVU_Zod_StatusMenuBuilder) to whatever color and presentation you want — no coding needed.
+- You can view what variables was saved on your PC by using the variable manager
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/5632f133-f830-46d6-a8a8-c22facb64fb4" />
+
 
 ---
