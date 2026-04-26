@@ -239,13 +239,13 @@ You'll need a fairly capable AI model. The dating system is more sensitive to mo
 
 Tested on:
 
-- ✅ Gemini 3 Flash
+- ✅ Gemini 3 Flash (Recommend for normal user)
 
 - ✅ Gemini 3.1 Flash lite
 
 - ✅ Gemini 3 Pro
 
-- ✅ Claude Sonnet / Opus
+- ✅ Claude Sonnet / Opus  (Recommend for best use of the system)
 
 - ✔ GLM 5.0/5.1 should work 95% of the time
 
