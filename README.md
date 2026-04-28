@@ -200,7 +200,7 @@ _All extensions are open source._
 
 <br><br>
 ✨Make sure you set the Preset Context no smaller than the following<br>
-<img width="400" height="439" alt="image" src="https://github.com/user-attachments/assets/984b875e-5c0b-40cd-a301-ab194feba18a" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/984b875e-5c0b-40cd-a301-ab194feba18a" />
 
 <br><br>
 ✨You might want to set the Target word count 1000 to 1500 so that it will better to describe the story in Megumin preset<br>
@@ -219,10 +219,11 @@ _All extensions are open source._
 
 <Br><br>
 
-✨If you are using Megumin v6, Use DreamTeam Lite or faster COT v2<br>
+✨If you are using Megumin v6, Use DreamTeam Lite and COT v2<br>
 <img  width="600" alt="image" src="https://github.com/user-attachments/assets/244ab5bd-05e5-41b4-be86-9ccc5fef5126" />
 <br>
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/4a79c653-2739-4392-b4b0-7e6361b52113" />
+<img width="600"   alt="image" src="https://github.com/user-attachments/assets/4ba1c6ce-991f-40c8-b2bc-908ba8223364" />
+
 
 
 
