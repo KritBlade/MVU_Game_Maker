@@ -219,7 +219,7 @@ _All extensions are open source._
 
 <Br><br>
 
-✨If you are using Megumin v6, Use DreamTeam Lite<br>
+✨If you are using Megumin v6, Use DreamTeam Lite or faster COT v2<br>
 <img  width="600" alt="image" src="https://github.com/user-attachments/assets/244ab5bd-05e5-41b4-be86-9ccc5fef5126" />
 <br>
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/4a79c653-2739-4392-b4b0-7e6361b52113" />
