@@ -8,8 +8,9 @@
     "min_p": 0,
     "repetition_penalty": 1,
     "max_context_unlocked": true,
-    "openai_max_context": 2000000,
-    "openai_max_tokens": 32000,
+    "tool_reasoning_mode": "disabled",
+    "openai_max_context": 150000,
+    "openai_max_tokens": 15000,
     "names_behavior": 0,
     "send_if_empty": "",
     "impersonation_prompt": "",
@@ -2110,6 +2111,7 @@
     "continue_prefill": false,
     "continue_postfix": " ",
     "function_calling": false,
+    "tool_call_recurse_limit": 5,
     "show_thoughts": true,
     "reasoning_effort": "high",
     "verbosity": "auto",
@@ -2394,7 +2396,5 @@
             "scripts": [],
             "variables": {}
         }
-    },
-    "tool_reasoning_mode": "disabled",
-    "tool_call_recurse_limit": 5
+    }
 }
