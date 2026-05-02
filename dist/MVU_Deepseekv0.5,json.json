@@ -107,7 +107,7 @@
             "identifier": "enhanceDefinitions",
             "role": "system",
             "name": "🛡️Max Reasoning",
-            "content": "<｜begin▁of▁sentence｜>\nReasoning Effort: Absolute maximum with no shortcuts permitted.\nYou MUST be very thorough in your thinking and comprehensively decompose the problem to resolve the root cause, rigorously stress-testing your logic against all potential paths, edge cases, and adversarial scenarios.\nExplicitly write out your entire deliberation process, documenting every intermediate step, considered alternative, and rejected hypothesis to ensure absolutely no assumption is left unchecked.",
+            "content": "<｜begin▁of▁sentence｜>\nReasoning Effort: Absolute maximum with no shortcuts permitted.  It has to be written in Traditional Chinese.\nYou MUST be very thorough in your thinking and comprehensively decompose the problem to resolve the root cause, rigorously stress-testing your logic against all potential paths, edge cases, and adversarial scenarios.\nExplicitly write out your entire deliberation process, documenting every intermediate step, considered alternative, and rejected hypothesis to ensure absolutely no assumption is left unchecked.",
             "system_prompt": true,
             "marker": false,
             "injection_position": 0,
@@ -429,7 +429,7 @@
             "marker": false,
             "name": "📘Formatting",
             "role": "user",
-            "content": "<输出模板>\n请严格按照以下模板输出response：\n\nSTRICT OUTPUT ORDER (ABSOLUTE) Failed to output this order will have to REGENERATE:\n1) <StoryAnalysis>\n2) <combat_calculation>\n3) <gametxt>\n4) <combat_log>\n5) <location>\n6) <UpdateVariable>\n\nThinking will include 1 and 2.\nThe Actualy story writing start at step 3.\n\nNOTE：\n- User对于正文故事的结尾要求，对正文后的特殊格式不适用。\n- 特殊格式包括：XML标签/状态栏/行动选项/信息面板/摘要 等。可能来自互动历史中的前文或User的元指令。以元指令优先。\n</输出模板>",
+            "content": "<输出模板>\n请严格按照以下模板输出response：\n- 若有 正文前/顶部 的特殊格式\n- 正文开始前额外输出标签：<正文>\n- 剧情正文\n- 正文结束后额外输出标签：</正文> 。同时检查是否仍有特殊格式尚未输出，再决定是否结束输出。\n- 若有 正文后/底部 的特殊格式\n- 若有变量系统，务必对正文涉及的变量进行完整更新或初始化\n\nSTRICT OUTPUT ORDER (ABSOLUTE) Failed to output this order will have to REGENERATE:\n1) <StoryAnalysis>\n2) <combat_calculation>\n3) <gametxt>\n4) <combat_log>\n5) <location>\n6) <UpdateVariable>\n\nThinking will include 1 and 2.\nThe Actualy story writing start at step 3.\n\nNOTE：\n- User对于正文故事的结尾要求，对正文后的特殊格式不适用。\n- 特殊格式包括：XML标签/状态栏/行动选项/信息面板/摘要 等。可能来自互动历史中的前文或User的元指令。以元指令优先。\n</输出模板>",
             "injection_position": 0,
             "injection_depth": 4,
             "forbid_overrides": false,
@@ -1035,7 +1035,7 @@
             "marker": false,
             "name": "🛡️Regex finish",
             "role": "user",
-            "content": "# 字数准则：\n- 正文剧情内容{{getvar::wordsCloud}}字。\n# 语言准则：\n- 全程使用英文创作，故事中不得出现非英文词汇。\n</创作准则>\n\n</核心指导>",
+            "content": "# 字数准则：\n- 正文剧情内容{{getvar::wordsCloud}}字。\n# 语言准则：\n- 全程使用繁體中文创作，故事中不得出现非繁體中文词汇。\n</创作准则>\n\n</核心指导>",
             "injection_position": 0,
             "injection_depth": 4,
             "forbid_overrides": false,
@@ -2033,7 +2033,7 @@
                 },
                 {
                     "identifier": "e148f299-1fd8-4d04-9aad-6761876a5e9e",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "b5d2c95f-0498-4f58-9816-a5aacf469260",
@@ -2061,7 +2061,7 @@
                 },
                 {
                     "identifier": "1f550996-712c-46f6-ac45-4b3d9ed9c1cb",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "9dbebbff-c267-4566-a7cd-8d1096d115fb",
