@@ -8,13 +8,13 @@ MVU Game Maker is a converter that transforms SillyTavern character cards into *
 - ⚔️ **RPG / Fantasy Adventure** — Full battle system, equipment, familiars, quests
 - 💕 **Slice of Life / Dating Simulation** — Trait-driven partners, D20 social checks, relationship progression, multi-partner support
 
-<img width="800"   alt="image" src="https://github.com/user-attachments/assets/bc186c3d-fd3c-478d-baf3-be7fbe94bd88" />
+<img width="400"   alt="image" src="https://github.com/user-attachments/assets/bc186c3d-fd3c-478d-baf3-be7fbe94bd88" />
 
 ---
 
 ## 📖 What is an MVU-based character card?
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/5584ff1a-fbd1-4d83-b047-2ef64dfdf262" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/5584ff1a-fbd1-4d83-b047-2ef64dfdf262" />
 
 
 - 💾 **Persistent memory** — All stats for your main character, familiars, and partners are stored locally on your disk.  
