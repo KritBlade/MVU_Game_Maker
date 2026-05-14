@@ -14,8 +14,15 @@ MVU Game Maker is a converter that transforms SillyTavern character cards into *
 
 ## 📖 What is an MVU-based character card?
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/5584ff1a-fbd1-4d83-b047-2ef64dfdf262" />
+
+
 - 💾 **Persistent memory** — All stats for your main character, familiars, and partners are stored locally on your disk.  
-  → The AI no longer needs to remember them.
+  → The AI no longer needs to remember them.  It's been proven to track 30+ stats 100% without forgeting on each characters and 10+ members acorss the whole team.
+  That's 300+ stats of tracking!
+  
+- 🎮 **Stats GUI inside Sillytavern** — All stats for your main character, familiars, and partners can be view in GUI.  
+  → A real GUI inside SillyTavern that would allow you to view all the stats in one single screen!  Yes, we track every single one of the stats you see in the GUI.
 
 - ⚙️ **JavaScript enabled** — Works inside SillyTavern and lorebooks, allowing:
   - Advanced scripting  
