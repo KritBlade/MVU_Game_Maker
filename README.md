@@ -23,7 +23,7 @@ In short, it's a character level stats tracking system + built in rule base game
   → The AI no longer needs to remember them.  It's been proven to track 30+ stats 100% without forgeting on each characters and 10+ members acorss the whole team.
   That's 300+ stats of tracking!
   
-- 🎮 **Stats GUI inside Sillytavern** — All stats for your main character, familiars, and partners can be view in GUI.  
+- 🎮 **Stats GUI inside Sillytavern** — All stats for your main character, familiars, and partners can be viewed in GUI.  
   → A real GUI inside SillyTavern that would allow you to view all the stats in one single screen!  Yes, we track every single one of the stats you see in the GUI.
 
 - ⚙️ **JavaScript enabled** — Works inside SillyTavern and lorebooks, allowing:
@@ -35,7 +35,7 @@ In short, it's a character level stats tracking system + built in rule base game
   → AI cannot hand-wave away results. Failures stay failures. Success has to be earned.
   → Console game like experience.  Rule based engine to govern what AI can write.
     You can't beat a lv 50 boss when you are lv 10.  You can't kiss a girl when she has low affection towards you.
-    AI can write in any tone or any prose it wants, but it can't work around the rules to make you win.
+    AI can write in any tone or any prose all it wants, but it can't work around the rules to make you win, or force you to lose when your stats well above the requirements.
 
 ---
 
