@@ -14,6 +14,8 @@ MVU Game Maker is a converter that transforms SillyTavern character cards into *
 
 ## 📖 What is an MVU-based character card?
 
+In short, it's a character level stats tracking system + built in rule base game engine + GUI all inside Sillytavern.
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5584ff1a-fbd1-4d83-b047-2ef64dfdf262" />
 
 
@@ -31,6 +33,9 @@ MVU Game Maker is a converter that transforms SillyTavern character cards into *
 
 - 🎲 **Real game mechanics** — D20 rolls, stat-driven outcomes, formula-based calculations.  
   → AI cannot hand-wave away results. Failures stay failures. Success has to be earned.
+  → Console game like experience.  Rule based engine to govern what AI can write.
+    You can't beat a lv 50 boss when you are lv 10.  You can't kiss a girl when she has low affection towards you.
+    AI can write in any tone or any prose it wants, but it can't work around the rules to make you win.
 
 ---
 
