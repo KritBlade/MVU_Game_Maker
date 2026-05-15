@@ -8,14 +8,23 @@ MVU Game Maker is a converter that transforms SillyTavern character cards into *
 - ⚔️ **RPG / Fantasy Adventure** — Full battle system, equipment, familiars, quests
 - 💕 **Slice of Life / Dating Simulation** — Trait-driven partners, D20 social checks, relationship progression, multi-partner support
 
-<img width="800"   alt="image" src="https://github.com/user-attachments/assets/bc186c3d-fd3c-478d-baf3-be7fbe94bd88" />
+<img width="400"   alt="image" src="https://github.com/user-attachments/assets/bc186c3d-fd3c-478d-baf3-be7fbe94bd88" />
 
 ---
 
 ## 📖 What is an MVU-based character card?
 
+In short, it's a character level stats tracking system + built in rule base game engine + GUI all inside Sillytavern.
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/5584ff1a-fbd1-4d83-b047-2ef64dfdf262" />
+
+
 - 💾 **Persistent memory** — All stats for your main character, familiars, and partners are stored locally on your disk.  
-  → The AI no longer needs to remember them.
+  → The AI no longer needs to remember them.  It's been proven to track 30+ stats 100% without forgeting on each characters and 10+ members acorss the whole team.
+  That's 300+ stats of tracking!
+  
+- 🎮 **Stats GUI inside Sillytavern** — All stats for your main character, familiars, and partners can be viewed in GUI.  
+  → A real GUI inside SillyTavern that would allow you to view all the stats in one single screen!  Yes, we track every single one of the stats you see in the GUI.
 
 - ⚙️ **JavaScript enabled** — Works inside SillyTavern and lorebooks, allowing:
   - Advanced scripting  
@@ -24,6 +33,10 @@ MVU Game Maker is a converter that transforms SillyTavern character cards into *
 
 - 🎲 **Real game mechanics** — D20 rolls, stat-driven outcomes, formula-based calculations.  
   → AI cannot hand-wave away results. Failures stay failures. Success has to be earned.
+  
+  → Console game like experience.  Rule based engine to govern what AI can write.
+    You can't beat a lv 50 boss when you are lv 10.  You can't kiss a girl when she has low affection towards you.
+    AI can write in any tone or any prose all it wants, but it can't work around the rules to make you win, or force you to lose when your stats well above the requirements.
 
 ---
 
