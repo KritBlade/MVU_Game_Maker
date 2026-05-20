@@ -31,7 +31,7 @@ In short, it's a character level stats tracking system + built in rule base game
   - Variable manipulation  
   - Dynamic systems  
 
-- 🎲 **Real game mechanics** — D20 rolls, stat-driven outcomes, formula-based calculations.  
+- 🎲 **Real game mechanics** — **D20 rolls, stat-driven outcomes, formula-based calculations**.  
   → AI cannot hand-wave away results. Failures stay failures. Success has to be earned.
   
   → Console game like experience.  Rule based engine to govern what AI can write.
